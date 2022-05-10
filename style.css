@@ -1,0 +1,94 @@
+/*Descripciones de class:
+            container= Centra el section y le da un margen automático sin completar la totalidad del ancho del navegador; además, genera un espaciado interno de 15 pixeles desde cada lateral.
+            
+            row= Restablece el ancho en el que se pueden ubicar los objetos dentro del section una vez que se encuentra en un div con la class container siendo como un container pero eliminando ese espaciado interno desde los laterales.
+            
+            container-fluid= Funciona como un container clásico pero ocupa todo el ancho de la pantalla y no se genera un margen automático a los laterales. Mantiene el espaciado interno de 15 pixeles desde los laterales.
+            
+            logo= Estila el logo para su visualización deseada en el header.
+            
+            boton= Estila eltextopara que se visualice como un botón.
+            
+            columna columna-33= Establece que cada columna mida un 33,33% del ancho del section.
+                           -25= Establece que cada columna mida un 25% del ancho del section.
+                           -50= Establece que cada columna mida un 50% del ancho del section.
+                           
+            bloque-servicio= el div agrupará un anchor que estará estilado con una foto y un párrafo.
+            bloque-img-servicio= estila la foto.
+            bloque-contenido-servicio= estila el contenido y un anchor como botón.
+            
+            cuadrado-perfecto= estilará para que cada bloque del section galería sea un cuadrado perfecto.
+            
+            form-block=
+            form-control=
+            
+            logo-footer= Estila el logo para su visualización deseada en el footer.
+            
+            barra-footer= Estila la barra de derechos reservados al fondo de la webpage en el footer.
+            */
+
+.container{
+
+}
+
+.row{
+
+}
+
+.container-fluid{
+
+}
+
+.logo{
+
+}
+
+.boton{
+
+}
+
+.columna columna-33{
+
+}
+
+.columna columna-25{
+
+}
+
+.columna columna-50{
+
+}
+
+.bloque-servicio{
+
+}
+
+.bloque-img-servicio{
+
+}
+
+.bloque-contenido-servicio{
+
+}
+
+.cuadrado-perfecto{
+
+}
+
+.form-block{
+
+}
+
+.form-control{
+
+}
+
+.logo-footer{
+
+}
+
+.barra-footer{
+
+}
+
+
