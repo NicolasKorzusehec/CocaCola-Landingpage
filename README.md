@@ -1,1 +1,1 @@
-# Landpage-CocaCola
+# LandingPage-CocaCola
